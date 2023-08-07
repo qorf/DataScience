@@ -35,7 +35,7 @@
       <h4>Instructions</h4>
       <div>
 	  <?php
-          echo "<p>Please read the following phrase and distribute points according to your preference. You are allotted a bank of <b>$points points</b> that you are to distribute across the set of methods; where <u>more points means it matches the phrase or concept well</u> and <u>less points means it is not a very good match</u>. The total points in the bank will vary between questions based on the number of response options are avaialble. <b>You must use all of the points on each question, and there cannot be any ties in your selection..</b></p>";
+          echo "<p>Please read the following phrase and distribute points according to your preference. You are allotted a bank of <b>$points points</b> that you are to distribute across the set of methods; where <u>more points means it matches the phrase or concept well</u> and <u>less points means it is not a very good match</u>. The total points in the bank will vary between questions based on the number of response options are avaialble. <b>You must use all of the points on each question, and there cannot be any ties in your selection.</b></p>";
       ?>
 	  </div>
 	  
